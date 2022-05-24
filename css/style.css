@@ -1,0 +1,141 @@
+.header{
+	background: black;
+	padding-top: 5px;
+	padding-bottom: 0px;
+}
+.menu li{
+	display: inline-block;
+	padding-top: 6%;
+}
+.menu a{
+	font-size: 25px;
+	color: white;
+	text-decoration: none;
+	padding: 5px 15px;
+}
+.csa{
+	background:-webkit-linear-gradient(top, #000000, #222222);
+	text-align: center;
+	padding-bottom: 30px;
+}
+.hub{
+	font-size: 30px;
+	color: white;
+}
+.h1ub{
+	text-align: right;
+	padding-top: 7%;
+}
+.logo{
+	text-align: left;
+}
+.hub1{
+	font-size: 50px;
+	color: white;
+}
+.text{
+	color: white;
+	font-size: 45px;
+}
+hr{
+	border-color: white;
+	border-width: 3px;
+}
+.csb{
+	background:-webkit-linear-gradient(top, #222222, #000000);
+	text-align: center;
+	padding-bottom: 2%;
+}
+.h3{
+	color: white;
+}
+.p3{
+	color: white;
+}
+.csc{
+	background:-webkit-linear-gradient(top, #000000, #222222);
+
+}
+.news1{
+	text-align: center;
+	padding: 5px 15px;
+}
+.news2{
+	text-align: center;
+	padding: 5px 15px;
+}
+.news{
+	padding-bottom: 7%;
+	text-align: center;
+}
+.h2{
+	color: white;
+	font-size: 50px;
+}
+.more1{
+	text-align: center;
+	padding-bottom: 5%;
+	
+}
+.more{
+	font-size: 25px;
+	text-decoration: none;
+	color: black;
+	border: 4px double black;
+	background: gold;
+}
+.csd{
+	background: -webkit-linear-gradient(top, #222222, #000000);
+}
+.hub3{
+	text-align: center;
+	padding-bottom: 2%;
+}
+.cse{
+	background: black;
+	padding-top: 0px;
+}
+.obigre{
+	text-align: center;
+	padding-bottom: 2%;
+}
+.third{
+	position: relative;
+}
+.text1{
+	text-align: center;
+	padding-left: 5%;
+	padding-right: 5%;
+	top: 50%;
+	background: rgba(0, 0, 0, 0.5);
+	color: white;
+	position: absolute;
+}
+.h4{
+	font-size: 25px;
+}
+a:hover{
+	text-decoration: none;	
+}
+.csf{
+	background: -webkit-linear-gradient(top, #000000, #222222);
+}
+.tog{
+	color: white;
+	font-size: 15px;
+	line-height: 150%;
+}
+.itog{
+	text-align: center;
+	padding-left: 25%;
+	padding-right: 25%;
+	line-height: 5%;
+}
+.vk{
+	text-align: center;
+	padding-bottom: 2%;
+}
+.texta{
+	font-size: 20px;
+	color: white;
+}
